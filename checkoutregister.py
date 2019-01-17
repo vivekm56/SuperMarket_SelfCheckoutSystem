@@ -1,6 +1,6 @@
 from products import Products
 
-	class CheckoutRegister:
+class CheckoutRegister:
 	def __init__(self):
 		self.currentBarCode = input('Please enter the bar code of your item: ')
 
